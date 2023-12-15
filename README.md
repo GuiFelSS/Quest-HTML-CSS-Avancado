@@ -17,5 +17,5 @@ Desktop 💻 / mobile 📱
 
 <div>
   <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/2b353120-63b2-44fa-ac3c-36edf64b8948" width="600px" />
-   <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/db70fdc1-a0a3-41a6-8129-a4340b355b42" width="180px" />
+   <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/db70fdc1-a0a3-41a6-8129-a4340b355b42" width="200px" />
 </div>
