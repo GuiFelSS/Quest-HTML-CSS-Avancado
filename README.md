@@ -10,3 +10,6 @@
 </p>
 
 # sobre
+Essa é a resolução da primeira quest do curso Devques, no qual o desafio foi realizar uma challenge do site [Frontend mentor](https://www.frontendmentor.io/home) que era a crianção de uma [Página de destino do Huddle com uma única seção introdutória](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
+
+# Desafio proposto
