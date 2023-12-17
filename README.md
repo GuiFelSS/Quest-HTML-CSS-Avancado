@@ -16,6 +16,8 @@ Essa é a resolução da primeira quest do curso Devques, no qual o desafio foi 
 Desktop 💻 / mobile 📱
 
 <div>
-  <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/2b353120-63b2-44fa-ac3c-36edf64b8948" width="620px" />
-   <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/db70fdc1-a0a3-41a6-8129-a4340b355b42" width="200px" />
+  <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/ec4fb86d-a1f6-425a-9488-59dbfd369a90" width="620px" />
+   <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/24cb3fee-ff17-4cd2-8870-a285b58b8453" width="200px" />
 </div>
+![Captura de tela 2023-12-17 143940](https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/ec4fb86d-a1f6-425a-9488-59dbfd369a90)
+![Captura de tela 2023-12-17 143957](https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/24cb3fee-ff17-4cd2-8870-a285b58b8453)
