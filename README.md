@@ -27,3 +27,16 @@ Desktop 💻 / mobile 📱
   <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/0bcfedd0-931f-4ac6-9c6a-edd3d21dd5e9" width="620px" />
    <img src="https://github.com/GuiFelSS/Quest-HTML-CSS-Avancado/assets/134904198/97e5fd83-dbac-4aab-9c3f-37ffa1e9537b" width="174px" />
 </div>
+
+# Tecnologias
+
+- ``HTML``
+- ``CSS``
+
+# Aprendizados
+
+Bem, ao todo gostei do meu desempenho, sei que não ficou 100% idêntico, mas só o fato de eu ter tido que me afastar do curso por um bom tempo e quando voltei ter conseguido fazer isso sem tanto sacrifício já me deixa bem tranquilo, tive um pouco de dificuldade principalmente em posicionamento, alinhamento e escala em certos momentos, mas nada que uma pesquisa ou uma leitura nos resumos que não resolvesse, em certo momento tive que mudar algumas escalas de elementos, pois eu estava usando um segundo monitor que não tinha a mesma escala do monitor principal e acabou dando uma diferença no final (fui juvenil eu sei, peço perdão, fiquei surpreso por fazer isso também, mas fazer o que, acontece kk), mas foi tudo resolvido felizmente.
+
+# Status
+
+### 🚨🚧 Projeto em correção 🚧🚨
